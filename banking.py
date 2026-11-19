@@ -2,6 +2,7 @@
 #  ONLINE BANKING SYSTEM - Like JINNAH Bank Website
 #  Python + Tkinter GUI - Aesthetic + Professional
 # ============================================================
+# Banking App - Updated Version
 import tkinter as tk
 from tkinter import messagebox
 
